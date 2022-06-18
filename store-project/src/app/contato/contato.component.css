@@ -15,7 +15,7 @@
 }
 
 .contact-form button {
-    align-self: flex-end;
+    align-self: center;
     background-color: var(--blue);
     border: none;
     color: white;
